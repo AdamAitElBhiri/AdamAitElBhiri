@@ -57,7 +57,7 @@
 ###
 
 <div align="left">
-  <a href="https://x.com/AitElBhiri_Adam" target="_blank">
+  <a href="https://x.com/AitElBhiri_Adam" target="_self">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <br>
