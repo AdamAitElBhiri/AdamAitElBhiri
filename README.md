@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 I'm Adam</h1>
+<h1 align="center">Hey 👋 I'm Adam AIT EL BHIRI</h1>
 
 ###
 
-<p align="left">Full Stack Developer | React & Spring Boot Enthusiast</p>
+<p align="center">Welcome to my github profile! I am a Full Stack Developer with experience in a variety of programming languages and technologies. In the last few years, I’ve been working with React and Spring Boot as my core full-stack development stack.</p>
 
 ###
 
