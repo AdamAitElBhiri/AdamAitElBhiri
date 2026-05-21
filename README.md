@@ -69,7 +69,7 @@
   </a>
   <br>
   <br>
-  <a href="https://www.linkedin.com/in/adam-ait-el-bhiri-39ba3a3a4/" target="_blank">
+  <a href="www.linkedin.com/in/adam-ait-el-bhiri" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
 </div>
